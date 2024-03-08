@@ -1,4 +1,4 @@
-## Installation
+# Installation
 
 ### Via automation by bash
 ```bash
@@ -20,7 +20,7 @@ chmod +x inst.sh
 docker-compose up -d
 ```
 
-## Next Up
+# Next Up
 1. Go and check *loclhost:3000*
 2. Use "admin" as login and password
 3. **Change password**
