@@ -25,3 +25,4 @@ docker-compose up -d
 2. Use "admin" as login and password
 3. **Change password**
 4. **Close ports** *9090* and *9093* on ur machine for external connections for **security** reasons
+5. Delete the files remaining after installation
