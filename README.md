@@ -16,15 +16,13 @@ cd docker-promgrafana
 docker-compose up -d
 ```
 
-
-
-# Next Up
-
 ### Unnecessary removing
 ```bash
 cd .. && rm -r docker-promgrafana
 ```
 
+
+# Next Up
 ### Check it out!
 1. Go and check *loclhost:3000*
 2. Use "admin" as login and password
