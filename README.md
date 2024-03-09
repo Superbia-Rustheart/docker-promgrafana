@@ -16,7 +16,7 @@ cd docker-promgrafana
 docker-compose up -d
 ```
 
-<br><br>
+
 # Next Up
 ### Check it out
 1. Delete the files remaining after ins
