@@ -1,16 +1,14 @@
 # Installation
 
-### Via automation by bash
+### Via half-manual mode
+Just use them in bash step by step [this](https://gist.github.com/9e491678d90e0a9ac19e339230dc059a.git) instrucions
+
+### Or via automation by bash
 ```bash
 git clone https://gist.github.com/9e491678d90e0a9ac19e339230dc059a.git
 cd 9e491678d90e0a9ac19e339230dc059a
 bash docker-promgrafana-install.sh
 ```
-
-### Or via half-manual mode
-You can get all the instrucions [here](https://gist.github.com/9e491678d90e0a9ac19e339230dc059a.git)
-<br>
-Just use them in bash step by step
 
 <br><br>
 # Next Up
