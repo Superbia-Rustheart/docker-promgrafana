@@ -19,7 +19,7 @@ docker-compose up -d
 
 # Next Up
 ### Check it out
-1. Delete the files remaining after ins
+1. Delete the files remaining after installation by running `cd .. && rm -r docker-promgrafana` in bash
 2. Go and check *loclhost:3000*
 3. Use "admin" as login and password
 
