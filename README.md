@@ -17,11 +17,15 @@ docker-compose up -d
 ```
 
 
+
 # Next Up
-### Check it out
-1. Delete the files remaining after installation by running `cd .. && rm -r docker-promgrafana` in bash
-2. Go and check *loclhost:3000*
-3. Use "admin" as login and password
+
+### Unnecessary removing
+1. Run `cd .. && rm -r docker-promgrafana` in bash
+
+### Check it out!
+1. Go and check *loclhost:3000*
+2. Use "admin" as login and password
 
 ### Make some safety
 > [!CAUTION]
