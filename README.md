@@ -29,4 +29,4 @@ docker-compose up -d
 ### Make some safety
 > [!CAUTION]
 > 1. **Change password**
-> 2. **Close ports** *9090* and *9093* on ur machine for external connections for **security** reasons
+> 2. **Close ports** *9090* and *9093* on ur machine for external connections for security reasons
