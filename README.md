@@ -1,6 +1,6 @@
 # Installation
 
-### Get Docker and Git
+### Preprocessing
 ```bash
 apt update -y
 apt install docker -y
