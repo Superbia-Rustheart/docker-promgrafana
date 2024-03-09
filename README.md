@@ -21,7 +21,9 @@ docker-compose up -d
 # Next Up
 
 ### Unnecessary removing
-1. Run `cd .. && rm -r docker-promgrafana` in bash
+```bash
+cd .. && rm -r docker-promgrafana
+```
 
 ### Check it out!
 1. Go and check *loclhost:3000*
