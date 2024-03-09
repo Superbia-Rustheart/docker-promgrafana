@@ -6,7 +6,8 @@ git clone https://gist.github.com/9e491678d90e0a9ac19e339230dc059a.git
 cd 9e491678d90e0a9ac19e339230dc059a
 bash docker-promgrafana-install.sh
 ```
-<br/>
+
+
 ### Or via half-manual mode
 ```bash
 apt update -y
