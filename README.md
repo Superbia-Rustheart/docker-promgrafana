@@ -1,6 +1,6 @@
 # Installation
 
-[Check installation file](https://gist.github.com/9e491678d90e0a9ac19e339230dc059a.git)
+Check [installation file](https://gist.github.com/9e491678d90e0a9ac19e339230dc059a.git)
 
 ### Via automation by bash
 ```bash
