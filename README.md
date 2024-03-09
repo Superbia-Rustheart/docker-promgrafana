@@ -1,12 +1,13 @@
 # Installation
 
+[Check installation file](https://gist.github.com/9e491678d90e0a9ac19e339230dc059a.git)
+
 ### Via automation by bash
 ```bash
 git clone https://gist.github.com/9e491678d90e0a9ac19e339230dc059a.git
 cd 9e491678d90e0a9ac19e339230dc059a
 bash docker-promgrafana-install.sh
 ```
-
 
 ### Or via half-manual mode
 ```bash
