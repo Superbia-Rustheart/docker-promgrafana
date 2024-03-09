@@ -21,9 +21,12 @@ docker-compose up -d
 ```
 
 # Next Up
+### Check it out
 1. Delete the files remaining after ins
 2. Go and check *loclhost:3000*
 3. Use "admin" as login and password
+
+### Make some safety
 > [!CAUTION]
 > 1. **Change password**
 > 2. **Close ports** *9090* and *9093* on ur machine for external connections for **security** reasons
