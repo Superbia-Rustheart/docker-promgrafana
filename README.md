@@ -7,7 +7,6 @@ cd 9e491678d90e0a9ac19e339230dc059a
 bash docker-promgrafana-install.sh
 ```
 
-<br><br>
 ### Or via half-manual mode
 You can get all the instrucions [here](https://gist.github.com/9e491678d90e0a9ac19e339230dc059a.git)
 <br>
