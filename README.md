@@ -23,8 +23,8 @@ docker-compose up -d
 # Next Up
 > [!IMPORTANT]
 > 123
-1. Go and check *loclhost:3000*
-2. Use "admin" as login and password
-3. **Change password**
-4. **Close ports** *9090* and *9093* on ur machine for external connections for **security** reasons
-5. Delete the files remaining after installation
+> 1. Go and check *loclhost:3000*
+> 2. Use "admin" as login and password
+> 3. **Change password**
+> 4. **Close ports** *9090* and *9093* on ur machine for external connections for **security** reasons
+> 5. Delete the files remaining after installation
