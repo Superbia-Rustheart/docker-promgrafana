@@ -1,7 +1,7 @@
 # Installation
 
 ### Via half-manual mode
-Just use them in bash step by step [this](https://gist.github.com/9e491678d90e0a9ac19e339230dc059a.git) instrucions
+Just use step by step [this](https://gist.github.com/9e491678d90e0a9ac19e339230dc059a.git) bash instrucions
 
 ### Or via automation by bash
 ```bash
