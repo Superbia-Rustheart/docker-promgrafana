@@ -1,13 +1,19 @@
 # Installation
 
-### Via half-manual mode
-Just use step by step [this](https://gist.github.com/9e491678d90e0a9ac19e339230dc059a.git) bash instrucions
-
-### Or via automation by bash
+### Get Docker and Git
 ```bash
-git clone https://gist.github.com/9e491678d90e0a9ac19e339230dc059a.git
-cd 9e491678d90e0a9ac19e339230dc059a
-bash docker-promgrafana-install.sh
+apt update -y
+apt install docker -y
+apt install docker.io -y
+apt install docker-compose -y
+apt install git -y
+```
+
+### Main processing
+```bash
+git clone https://github.com/Superbia-Rustheart/docker-promgrafana.git
+cd docker-promgrafana
+docker-compose up -d
 ```
 
 <br><br>
