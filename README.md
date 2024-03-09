@@ -12,6 +12,7 @@ You can get all the instrucions [here](https://gist.github.com/9e491678d90e0a9ac
 <br>
 Just use them in bash step by step
 
+<br><br>
 # Next Up
 ### Check it out
 1. Delete the files remaining after ins
