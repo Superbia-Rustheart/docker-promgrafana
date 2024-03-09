@@ -9,17 +9,18 @@
 > ```
 
 ### Or via half-manual mode
-```bash
-apt update -y
-apt install docker -y
-apt install docker.io -y
-apt install docker-compose -y
-apt install git -y
-git clone https://github.com/Superbia-Rustheart/docker-promgrafana.git
-cd docker-promgrafana
-chmod +x inst.sh
-docker-compose up -d
-```
+> [!NOTE]
+> ```bash
+> apt update -y
+> apt install docker -y
+> apt install docker.io -y
+> apt install docker-compose -y
+> apt install git -y
+> git clone https://github.com/Superbia-Rustheart/docker-promgrafana.git
+> cd docker-promgrafana
+> chmod +x inst.sh
+> docker-compose up -d
+> ```
 
 # Next Up
 1. Delete the files remaining after ins
